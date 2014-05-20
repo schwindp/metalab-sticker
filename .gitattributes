@@ -1,2 +1,2 @@
-*.eps -crlf
-*.psd -crlf
+*.eps binary
+*.psd binary
